@@ -1,0 +1,35 @@
+h1{
+    color:brown;
+}
+/* pseudo element  */
+h4:hover{
+    color:orangered;
+}
+/* id value her we can assinge id to only one element */
+#ravi { 
+    color:blue;
+
+}
+/* class value we can assinge  class to element in number of times */
+.ravi2{
+    color:chartreuse;
+    background-color:green;
+    
+    
+
+}
+/* combinators child   and space = decentent*/
+div > p{
+    color:rgb(86, 97, 17);
+    background-color:fuchsia
+}
+/*adjacent siblings   */
+div + p {
+    color:rgb(235, 235, 22);
+    background:rgb(54, 54, 47)
+}
+/* general sibling sectors: */
+div ~ p {color:lawngreen;
+    background-color: blueviolet;
+
+}
