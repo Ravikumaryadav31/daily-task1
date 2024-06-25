@@ -1,0 +1,18 @@
+div{
+    display:inline-block;
+    width:300px;
+    background-color: rgb(189, 210, 30);
+    border-color: crimson;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    background:url(./sog_phot.html/chicken-biryani-p-2000023562.webp)
+}
+hr{
+color:red;
+}
+h1{
+    color:red;
+}
+ol{
+    color:greenyellow;
+}

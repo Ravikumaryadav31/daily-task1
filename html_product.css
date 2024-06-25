@@ -1,0 +1,25 @@
+div{
+display:inline-block;
+    width:200px;
+    height: 300px;
+    background-color: rgb(189, 210, 30);
+    border-color: crimson;
+    border:300px;
+    margin-right:50px;
+    margin-bottom:50px ;
+    align-items:center;
+
+    
+}
+h1{
+    text-align: center;
+    color:darkmagenta;
+    background-color: blue;
+}
+img{
+    width:200px
+}
+input{
+    color:blue;
+    
+}
